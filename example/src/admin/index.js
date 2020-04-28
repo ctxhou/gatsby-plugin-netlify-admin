@@ -5,11 +5,11 @@ import Home from "../components/Home"
 import User from "../components/User"
 
 const Admin = props => {
-    const {netlifyAdminStatus} = props;
-    function logout() {
-        props.netlifyLogout();
-        window.location.reload();
-    }
+  const {netlifyAdminStatus} = props;
+  function logout() {
+      props.netlifyLogout();
+      window.location.reload();
+  }
   return (
     <div style={{textAlign: 'center', marginTop: '100px'}}>
         <button onClick={logout}>Logout</button>

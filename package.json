@@ -5,6 +5,10 @@
   "main": "index.js",
   "author": "ctxhou",
   "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/ctxhou/gatsby-plugin-netlify-admin"
+  },
   "scripts": {
     "build": "babel src --out-dir . --ignore \"**/__tests__\"",
     "prepare": "cross-env NODE_ENV=production npm run build",
