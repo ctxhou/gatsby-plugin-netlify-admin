@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{RXBc:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),l=t.n(a),o=t("Wbzz"),r=t("Bl7J"),c=t("vrFN");n.default=function(){return l.a.createElement(r.a,null,l.a.createElement(c.a,{title:"Home"}),l.a.createElement("h3",null,l.a.createElement(o.Link,{to:"/admin/"},"Go to admin dashboard")))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-90320e2bbab2c7a3ec78.js.map

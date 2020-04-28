@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{hwqG:function(e,n,t){"use strict";t.r(n);var i=t("q1tI"),o=t.n(i);n.default=function(e){return o.a.createElement("div",{style:{textAlign:"center",marginTop:"100px"}},o.a.createElement("button",{style:{fontSize:"100px",lineHeight:"1.2"},onClick:e.netlifyLogin},"Login"))}}}]);
+//# sourceMappingURL=component---src-admin-login-js-9e3fb7df4c396f4c3f6e.js.map
