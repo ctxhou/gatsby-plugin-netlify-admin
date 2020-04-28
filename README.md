@@ -1,6 +1,6 @@
 # gatsby-plugin-netlify-admin
 
-Gatsby + [Netlify Intendity](https://docs.netlify.com/visitor-access/identity/) = Static Site with Identification
+Gatsby + [Netlify Identity](https://docs.netlify.com/visitor-access/identity/) = Static Site with Identification
 
 
 ## Why?
@@ -8,7 +8,7 @@ Gatsby + [Netlify Intendity](https://docs.netlify.com/visitor-access/identity/) 
 You love Gatsby. You love Netlify. So you host your Gatsby site on Netlify.<br/>
 You love static site. You also want your static site has identity feature.
 
-Here is it. Powered your Gatsby site with [Netlify Intendity](https://docs.netlify.com/visitor-access/identity/) without pain.
+Here is it. Powered your Gatsby site with [Netlify Identity](https://docs.netlify.com/visitor-access/identity/) without pain.
 
 
 ## Features
