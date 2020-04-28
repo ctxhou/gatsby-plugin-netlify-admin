@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{hwqG:function(e,n,t){"use strict";t.r(n);var i=t("q1tI"),a=t.n(i),o=t("Wbzz");n.default=function(e){return e.isLoggedIn?(Object(o.navigate)("/admin"),null):a.a.createElement("div",{style:{textAlign:"center",marginTop:"100px"}},a.a.createElement("button",{style:{fontSize:"100px",lineHeight:"1.2"},onClick:e.netlifyLogin},"Login"),a.a.createElement("pre",null,"* Email: jpw41904@bcaoo.com * Password: guest"))}}}]);
+//# sourceMappingURL=component---src-admin-login-js-2189ec6fbafcc8748f98.js.map
